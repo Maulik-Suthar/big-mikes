@@ -1,0 +1,666 @@
+/* css only for hover effect all hover effect must write in this Media query */
+@media only screen and (max-width: 1920px) {
+
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+
+}
+
+
+@media only screen and (max-width: 1660px) {
+	
+
+}
+
+
+@media only screen and (min-width: 768px) {
+
+}
+
+
+@media only screen and (max-width: 1599px) {
+    .productBenifit{padding: 0 30px;}
+    .productBenifit .slideArrows{right: 60px;}
+    .productlist {padding: 0 20px;}
+    /*aboutbanner */
+  .aboutWrite ul li::before{left:-28px;}
+  .bitAboutImg{margin-left: 20px;}
+}
+
+
+@media only screen and (max-width: 1366px) {
+    .productBenifit {
+        padding: 0 15px;
+    }
+    .freehome-con .cmsCon p:nth-child(2) , .freehome-con .cmsCon p:nth-child(4), .freehome-con .cmsCon p:nth-child(5) {margin-bottom: 30px;}
+    .freehome-con .cmsCon p:nth-child(6){padding: 0;}
+
+}
+
+@media only screen and (max-width: 1280px) {
+
+.bannerTitle {font-size: 50px;}
+.banner_btn {font-size: 22px; padding: 12px 24px; min-width: 180px; margin-top: 30px;}
+.bookfreeSec {padding: 120px 0;}
+
+.catTitle {font-size: 32px; padding: 15px 10px;}
+
+/*buyFormImg */
+.buyFormImg{margin-left: 0;}
+
+/* listing-page */
+.listingBannerCon .listingBannerTitle{font-size: 50px;}
+.productCategoriesItem {padding: 16px 28px;}
+/* listing-page */
+
+.productDetailsSec {padding: 160px 0 100px;}
+.productDetailsBenifitSec{padding: 100px 0;}
+.productAccessoriesSec {padding: 88px 0 100px;}
+.relatedProductsSec.commonSec {padding: 100px 0;}
+
+.companyDetailsSec {padding: 100px 0 50px;}
+.companyInquirySec {padding-bottom: 100px;}
+
+/*.contactusBannerCon .bannerTitle{font-size: 50px;}*/
+
+/* thank-you-page */
+.thankyou-con .secTitle{font-size: 100px;}
+
+}
+ 
+
+/* common css for below screen 1199 */
+
+@media only screen and (max-width: 1199px) {
+
+/*---cms-Con---*/
+.cmsCon h1{font-size: 40px;margin-bottom: 20px;}
+.cmsCon h2{font-size: 34px;margin-bottom: 20px;}
+.cmsCon h3{font-size: 30px;margin-bottom: 20px;}
+.cmsCon h4{font-size: 26px;margin-bottom: 20px;}
+.cmsCon h5{font-size: 22px;margin-bottom: 20px;}
+.cmsCon h6{font-size: 18px;margin-bottom: 20px;}
+.cmsCon .aligncenter{margin: 30px auto 30px auto;}
+.cmsCon .mb-70{margin-bottom: 50px;}
+.cmsCon hr{height: 10px;margin: 30px 0;}
+.cmsCon .aligncenter.mb-100{margin-bottom: 50px;}
+/*---cms-Con---*/
+
+.homeSlider .bannerbox {height: 700px;}
+
+.headerMain .siteLogo img {display: block; width: 200px;}
+
+.commonSec {padding: 80px 0;}
+
+.homeproductcatSec {padding: 20px;}
+.productcatBoxes {gap: 20px;}
+.catTitle {font-size: 22px;}
+
+.aboutCon {padding-right: 20px; padding-left: 10px;}
+.bigTitle {font-size: 76px;}
+.secHead .seclargeTitle {font-size: 38px;}
+
+.footerMain .footersec {padding-left:0;}
+.quicklinks_sl {padding-left: 30px;}
+.contact_col {padding-left: 0;}
+
+.socialMeadia a {width: 38px; height: 38px; font-size: 16px;}
+
+.testimonialCon {margin-left: 50px;}
+
+/* listing-page */
+.listingproductSec.commonSec{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.productCategoriesList {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    white-space: nowrap;
+}
+.listingBannerSec .listingBannerBox{
+    height: 425px;
+}
+
+/* listing-page */
+
+.productDetailsSec.commonSec{padding: 120px 0 80px;}
+.productDetailsConT{font-size: 24px;}
+.productPrice{font-size: 18px;margin-top: 10px;}
+.productPriceDetails {padding-bottom: 18px;margin-bottom: 15px;}
+.productPriceDetails .pro_review {margin-top: 15px;}
+.productDetailsCon .productDesc br{display: none;}
+.productDetailsCon .productDesc{margin-bottom: 15px;}
+.quantityCountBox {margin-top: 18px;}
+.productDetailsButton {margin-top: 20px;padding-bottom: 20px;}
+.productDetailsButton .addtocartBtn,.productDetailsButton .bookDemoBtn{padding: 10px;}
+.productDetailsSilder img{height: 480px;}
+.productThumbnailImgBox {width: 80px;}
+
+.productDetailsTabing .nav-tabs .nav-link{margin-right: 20px;}
+.productDetailsTabing .nav-link{font-size: 18px;}
+.productTabTitle {margin-top: 30px;}
+.productDetailsBenifitSec {padding: 80px 0;}
+.productSpecificationsSec {padding-top: 65px;}
+.productAccessoriesSec {padding: 68px 0 80px;}
+.whyBuyUsSec {padding: 74px 0 45px;}
+.whyBuyUsList ul li{margin-bottom: 15px;}
+.whyBuyUsWarranty p{margin-left: 15px;}
+.topGunMobility {padding: 25px 15px 0;}
+.relatedProductsSec.commonSec {padding: 80px 0;}
+
+ /* aboutbannerSec */
+ .aboutbannerSec{min-height: 400px;}
+ .aboutbannerSec .bannerTitle{font-size: 50px;}
+ /* bitAboutus  */
+ .aboutWrite ul li::before{width: 20px; height: 20px; top: 3px; left: -24px;}
+ .aboutWrite ul li{margin-bottom: 15px;}
+ .bitAboutImg{margin-left: 0;}
+ .bitAboutText {margin-top: 25px;}
+
+ /* more-page */
+
+ /* moreBannerSec */
+ .moreBannerSec{min-height: 400px;}
+ .moreBannerSec .bannerTitle{font-size: 50px;}
+ .moreItemsText{margin-left: 0;}
+
+ .companyContactDetailsBox{padding: 30px 10px;min-height: 242px;}
+ .companyContactIcon{width: 70px;height: 70px;}
+ .companyContactMain p, .companyContactMain a{font-size: 18px;}
+ .companyContactIcon .icon{font-size: 30px;}
+ .contactFormMain{padding: 60px 25px;}
+ .companyDetailsSec {padding: 80px 0 50px;}
+ .companyInquirySec {padding-bottom: 80px;}
+ .contactT {font-size: 18px;margin-top: 20px;}
+.contactusBannerBox{height: 425px;}
+
+.logo_slider .logo img{max-width: 170px;}
+
+/* finance-page */
+.scooterFinanceText .cmsCon P:nth-child(1), .cmsCon P:nth-child(2), .cmsCon P:nth-child(3) {margin-bottom: 20PX;}
+.scooterFinance img{padding: 0 20px;}
+.scooterFinance-con{margin-right: 0;}
+
+/* customisation */
+.services-sec.commonSec{padding-bottom:60px;}
+.mobility-sec img{width: 100%;}
+
+
+/* .mobility-con-sec */
+
+.mobility-con-sec{margin-right: 0;}
+.mobility-con-thr{margin-right: 0;}
+.mobility-sec .row:nth-child(n){ margin-bottom: 0;}
+
+/* scooterFinance */
+.scooterFinance img{padding: 0;}
+
+/* 404-page */
+.opps-con .listingBannerTitle{font-size: 50px;}
+
+/* thank-you-page */
+.thankyou-con .secTitle{font-size: 90px;}
+
+.productDetailsItemMain {
+    padding-left: 10px;
+}
+
+.productBenifit .slideArrows {
+    right: 40px;
+}
+
+/* home-page */
+.freehome-con .cmsCon p:nth-child(2) ,.freehome-con .cmsCon p:nth-child(4),.freehome-con .cmsCon p:nth-child(5){
+    margin-bottom: 20px;
+}
+
+}
+
+
+
+
+
+/* common css for below screen 991 */
+
+@media only screen and (max-width: 991px) {
+p{font-size: 14px;}	
+.menuIcon { display: inline-block; vertical-align: middle;margin-left: 20px;}
+.m_menuLogo{display: block;width: 100%;padding: 35px 15px 35px;border-bottom: 1px solid #000;
+background: #010101;display: block;width: 100%;}
+.headerMain .m_menuLogo .menuLogo{max-width: 240px; display: block;}
+.headerMain .m_menuLogo .menuLogo img{filter:none;}
+.logo_slider .logo img{max-width: 140px;}
+.m_menuLogo .closeMenu { position: absolute; right: 10px; top: 38px; width: 30px; height: 30px; padding: 6px;}
+.m_menuLogo .closeMenu:before { content: ''; width: 30px; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: #fff; -webkit-transform: rotate(45deg); transform: rotate(45deg); margin: auto; bottom: 0;}
+.m_menuLogo .closeMenu:after { content: ''; width: 30px; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: #fff; -webkit-transform: rotate(-45deg); transform: rotate(-45deg); margin: auto; bottom: 0;}
+.navigationBar { position: fixed; width: 400px; top: 0; bottom: 0; left: -400px; background: #fff; transition: all .6s ease-in-out; margin: 0; z-index: 9999; height: 100vh; overflow-y: auto;}
+.navigationBar.slideMenu{left: 0;}
+.menuMain{width: 100%;margin-bottom: 2rem; display: block;}
+.menuMain > ul{overflow-y: auto;height: calc(100vh - 150px);}
+.menuMain li{width: 100%; display: block; border-bottom: 0.1rem solid #e2e2e2; padding:0; margin:0; position: relative;font-weight: 500;}
+.menuMain li a{display: block; width: 100%; padding: 12px 15px; text-align: left;}
+.menuMain > ul > li > a{ font-size: 16px; font-weight: 600;color: #000;}
+.navigationBar .btn.btn-light.btn-outline{margin: 1rem auto !important; color: #fff !important; background: #4a74fe; display: table; min-width: 200px; border-color: #4a74fe;}
+.navigationBar .socialMedia{ display: table; width: 100%;  position: absolute; left: 0; right: 0; bottom: 0; background: #0086f5;}
+.socialMedia a{font-size: 16px;}
+.navigationBar .menuMain>ul li .arrow:before {content: ""; position: absolute; left: 0; right:10px; top:-2px; bottom: 0; width: 12px;
+height: 12px; border-bottom: 2px solid #000; border-right:2px solid #000; transform: rotate(-45deg); margin: auto; transition: border .4s ease-in-out, transform .4s ease-in-out;}
+.navigationBar .menuMain>ul li .arrow.minus:before {transform: rotate(45deg);}
+.navigationBar .menuMain>ul>li ul {display: none; padding: 0!important; position: static!important;
+transform: none!important; left: inherit!important; top: inherit!important; width: auto!important; box-shadow: none!important; opacity: 1!important;
+visibility: visible!important; transition: none!important;}
+.navigationBar .menuMain>ul>li ul li:last-child {border-bottom:0;}
+.navigationBar .menuMain>ul>li>ul>li>ul {padding-left:15px;}
+.navigationBar .menuMain>ul>li>ul>li>ul>li>a {padding-left: 0;}
+.menuMain ul li.megaMenu > ul > li {width: 100%;}
+.megaMenuicon, .menu-text {display: none;}
+.menuMain ul.sub-menu:before{display: none;}
+.menuMain li a:hover:before{display: none;}
+.menuMain > ul > li .sub-menu{border-top: none;}
+.darkheaderMain .menuMain ul li.menu-item .arrow{border-bottom: 0;border-right: 0;}
+.menuMain > ul > li .sub-menu li a{padding: 12px 20px;font-size: 16px;border-width: 0;}
+.topcall {display: inline-block;vertical-align: middle;}
+.topcall p i{font-size: 25px;line-height: 1;}
+.topcall span{display: none;}
+.ourcustomartext {margin-top: 0;}
+.menuMain > ul > li .subMenu li a {font-weight: 500;}
+.head_search{margin-right: 10px;}
+.menuMain li.head_btn a {background: transparent; padding: 10px 15px;}
+.navigationBar .menuMain>ul li {position: relative;}
+
+.navigationBar .menuMain>ul li .arrow {position: absolute; right: 0; top: 0; width: 32px; height: 42px; z-index: 999; transform: none; bottom: inherit; border: none;}
+
+.footerMain .footBox .footCon ul li {margin-bottom: 10px;}
+.footerMain .footBox .footCon .hlfmenu li {width: 100%;}
+.socialMeadia a {margin-bottom: 10px;}
+
+.logoSection {text-align: left;}
+
+.quicklinks_sl {padding-left: 0;}
+.other_col {padding-left: 0;}
+
+.catTitle {font-size: 20px; padding: 10px 10px;}
+.popular_slider {margin-left: -10px; margin-right: -10px;}
+.bigTitle {font-size: 56px;}
+.secHead .seclargeTitle {font-size: 30px;}
+
+.comma_sl {width: 60px; height: 60px; right: -25px; top: -25px;} 
+.comma_sl img {max-width: 50%;}
+
+.testimonialCon {margin-left: 30px;}
+.watchVideo .videoIcon {width: 60px; height: 60px;}
+.watchVideo .videoIcon:after {width: 26px; height: 26px;}
+.testiTital {margin-bottom: 20px;}
+.testimonialCon p {margin-bottom: 30px;}
+.profile_photo {width: 80px; height: 80px;}
+.clientname {line-height: 1.2; font-size: 25px;}
+
+.footerBtnMain{position: fixed;left: 0;right: 0;bottom: 0;width: 100%;display: flex;justify-content: center;margin: 0;z-index: 5;}
+.footerBtnMain .btn{width: 100%;}
+.footerBtnMain .btn:hover{transform: translateY(0);background-color: #fff;color: #000;border: none;}
+
+/* listing-page */
+
+/* listing-page */
+
+.productDetailsCon {padding-left: 0;padding-top: 20px;}
+.productDetailsTabing .nav-tabs .nav-link {margin-right: 25px;padding: 6px;}
+.productDetailsTabing .nav-link {font-size: 16px;}
+.productTabTitle{font-size: 24px;margin-top: 25px;}
+.productTabingCon p{margin-bottom: 20px;}
+.productDetailsItem.cmsCon ul li{width: 50%;}
+.productAccessoriesSec .secTitle {margin-bottom: 30px;}
+.whyBuyUsDesc{padding: 0;display: flex;align-items: center;justify-content: space-between;}
+.whyBuyUsWarranty{width: 50%;border-right: 1px solid #d9d9d9;border-bottom: none;padding: 10px 0;}
+.topGunMobility p{padding-right: 20px;}
+.topGunMobility {padding: 0 15px;}
+.whyBuyUsSec {padding: 54px 0 45px;}
+
+/* .aboutbannerSec */
+.aboutbannerSec .bannerTitle{font-size: 40px;}
+/* buyform */
+.buyFormImg img{width: 100%;}
+.buyFormText{margin-top: 25px; max-width: 100%;}
+ 
+ /* .buyFormaccordion */
+.buyFormaccordion .accordionBorder{border-top: 1px solid #fff; padding-top: 25px;}
+ 
+/* more-page */
+/* moreItems */
+.moreItems img {width: 100%;}
+.moreItemsText{max-width: 100%; margin-top: 20px;}
+
+.companyContactDetailsBox{max-width: 355px;margin-bottom: 20px;min-height: 230px;}
+.contactFormMain {padding: 30px 25px;margin-bottom: 20px;}
+.contactForm .btn {font-size: 20px;padding: 10px 24px;}
+.companyDetailsSec {padding: 80px 0 30px;}
+.contactusBannerBox {height: 365px;}
+
+.companyServiceCatBox {margin: 20px 15px 0px;}
+.equireNowBtn{display: none;}
+ 
+/* finance */
+.scooterFinanceText{margin-right: 0; margin-top: 20px;}
+.scooterFinance .row:nth-child(n) { margin-bottom: 40px; align-items: center;}
+.scooterFinance-con{margin-left: 0; margin-right: 0; margin-top: 20px;}
+.finance-icon{padding: 0 15px;}
+
+/* servicesscooter */
+.scooterservicesText{margin-top: 20px; margin-right: 0;}
+.scooterservicesCon{margin-left: 0; margin-top: 20px;}
+.services-sec img{width: 100%;}
+
+/* customisation */
+.services-sec.commonSec{padding-bottom: 25px;}
+
+/* freehome */
+.freehome-con .cmsCon p img{max-width: 100%; margin-left: 0; width: 100%;}
+
+/* .mobility */
+.mobility-sec .row:nth-child(4){padding: 30px;}
+.mobility-con-first{margin-right: 0; margin-top: 20px;}
+.mobility-con-sec{margin-left: 0;}
+.mobility-con-thr{margin-top: 5px;}
+.mobaliti-brochure{padding: 30px;}
+
+
+ /* buyFormaccordion */
+ .buyFormaccordion.checklist-accordion{margin-top: 20px;}
+ .buyFormaccordion{margin-top: 20px;}
+
+ /* servicing */
+ .servicing-problem-sec .cmsCon{
+    margin-top: 20px;
+ }
+ 
+ /* community */
+
+ .community-sec .cmsCon{
+    margin-top: 20px;
+    padding-right: 0;
+ }
+
+  /* 404-page */
+ .opps-con .listingBannerTitle{font-size: 40px; margin-bottom: 10px;}
+ .opps-con{padding-left: 50px; padding-right: 50px;}
+
+ /* thankyou-page */
+ .thankyou-con{padding: 150px 50px;}
+ .thankyou-con .secTitle {font-size: 80px;}
+
+
+.productDetailsItemMain {
+    padding-left: 0px;
+}
+
+.listingBannerCon {
+    top: 65%;
+}
+
+}
+
+
+
+/* common css for below screen 767 */
+
+@media only screen and (max-width: 767px) {
+
+/*---cmsCon---*/
+.cmsCon p{font-size: 14px;margin-bottom: 15px;}
+.cmsCon p b{font-size: 14px;}
+.cmsCon ul li{font-size: 14px;padding-left: 18px;}
+.cmsCon ol li{font-size: 14px;}
+.cmsCon ul li:before{width: 8px;height: 8px;top: 5px;}
+.cmsCon ul li ul li{padding-left: 14px;}
+.cmsCon ul li ul li:before{width: 6px;height: 2px;top: 8px;}
+.cmsCon h1{font-size: 34px;margin-bottom: 20px;}
+.cmsCon h2{font-size: 30px;margin-bottom: 20px;}
+.cmsCon h3{font-size: 26px;margin-bottom: 20px;}
+.cmsCon h4{font-size: 24px;margin-bottom: 20px;}
+.cmsCon h5{font-size: 20px;margin-bottom: 20px;}
+.cmsCon h6{font-size: 16px;margin-bottom: 20px;}
+.cmsCon .aligncenter{margin: 25px auto 25px auto;}
+.cmsCon .mb-70{margin-bottom: 30px;}
+.cmsCon hr{height: 6px;margin: 25px 0;}
+.cmsCon .aligncenter.mb-100{margin-bottom: 30px;}
+/*---cmsCon---*/
+
+.headerMain,.headerMain.has_sticky {padding: 15px 0;}
+.headerMain .siteLogo img {width: 150px;}
+
+.footerMain .footersec {padding-top: 40px; padding-bottom: 20px;}
+.footerMain .footBox .footTitle {margin-bottom:20px;}
+.contact_col {margin-top: 20px;}
+
+.siteinfocol {display: none;}
+.homeSlider .bannerbox {height: 460px;}
+.commonSec {padding: 40px 0;}
+.bannerTitle {font-size: 32px;}
+.bannerDesc {font-size: 20px;}
+.homeSlider .slick-dots {bottom: 30px;}
+.banner_caption {top: 54%;}
+.banner_btn {font-size: 18px; padding: 8px 18px; min-width: inherit; margin-top: 20px;}
+.aboutWrite ul li .icon {top: 0px;font-size: 18px;}
+.aboutWrite ul li{padding-left: 30px;}
+.secHead .secTitle {font-size: 28px;}
+.catTitle {font-size: 16px;}
+.testimonialSec .secHead .secTitle {margin: 0;}
+.testiTital {font-size: 26px;}
+.testimonialCon {margin-left: 0; margin-top: 40px; max-width: 100%;}
+.testimonial_slider {margin-top:0;}
+.testimonialSec .slick-list {padding: 40px 0 0;}
+.testimonialSec .slick-dots {margin-top:0;}
+.comma_sl {right: 0; top: -27px;}
+
+.ourpartnerSec .secHead .secTitle {font-size: 26px;}
+.ourcustomartext {margin-top: 10px;}
+.bigTitle {font-size: 42px;}
+.secHead .seclargeTitle {font-size: 26px; margin-bottom: 20px;}
+.bookBottom .btn {min-width: 145px;}
+.bookfreeCon span {font-size: 24px;}
+.bookfreeCon .secHead .secTitle {font-size: 28px;}
+.ourpartnerSec .slick-dots {margin-top: 0;}
+
+/* listing-page */
+.listingBannerCon .listingBannerTitle{font-size: 32px;}
+.listingBannerSec .listingBannerBox {height: 330px;}
+.listingproductSec.commonSec {padding-top: 20px;padding-bottom: 40px;}
+.productCategoriesItem {padding: 16px 26px;}
+/* listing-page */
+
+.productDetailsSec.commonSec {padding: 44px 0 40px;}
+.productDetailsTabing .nav-tabs .nav-link{margin-right: 20px;}
+.productDetailsTabing .nav-link {font-size: 14px;}
+.productDetailsTabing {margin-bottom: 40px;}
+.productDetailsBenifitSec {padding: 40px 0;}
+.productBenifitSlider {margin: 0 10px;}
+.productBenifit {padding: 0;}
+.productDetailsBenifitSec .secTitle{margin-bottom: 25px;}
+.productSpecificationsSec table tr td{font-size: 16px;}
+.productAccessoriesSec {padding: 40px 0;}
+.whyBuyUsSec {padding: 40px 0;}
+.relatedProductsSec.commonSec {padding: 40px 0;}
+.relatedProductsSec .secHead .secTitle{margin-bottom: 0;}
+.productAccessoriesSec .secTitle {margin-bottom: 0;}
+
+.productTabTitle{display: none;}
+.productDetailsTabing .accordion-item{border: 1px solid #d9d9d9;margin-bottom: 10px;}
+.productDetailsTabing .accordion-button:focus{outline: none;box-shadow: none;border-color: none;}
+.productDetailsTabing .accordion-body{border-top: 1px solid #d9d9d9;}
+.productDetailsTabing .accordion-button{color: #000;font-size: 18px;font-weight: 600;}
+.productDetailsTabing .accordion-button:not(.collapsed){box-shadow: none;background-color: transparent;}
+.productDetailsTabing .accordion-button::after{width: 25px;height: 25px;margin-left: auto;content: "";background-image: url(../img/svg/down-arrow.svg);background-repeat: no-repeat;background-size: 25px;transition: transform .2s ease-in-out;}
+/*.productDetailsNavBar{display: none;}*/
+
+.companyDetailsSec {padding: 40px 0 20px;}
+.contactFormMain {padding: 30px 15px;}
+.contactForm .form-control, .contactForm .form-select{padding: 13px 28px;}
+textarea.form-control {resize: none;height: 145px;}
+.contactForm .btn {font-size: 18px;padding: 10px 24px;margin-top: 10px;}
+.companyInquirySec {padding-bottom: 40px;}
+
+/*.contactusBannerCon .bannerTitle {font-size: 32px;}*/
+.serviceProductBox {margin-bottom: 20px;}
+.topcall p i {
+    font-size: 20px;
+    line-height: 1;
+}
+/* 404-page */
+.opps-con .listingBannerTitle {font-size:30px;}
+
+/* .thankyou-page */
+.thankyou-con .secTitle {
+    font-size: 70px;
+}
+.productDetailsConT {padding-bottom: 15px;}
+
+.contactusBannerBox {height: 270px;}
+
+.moreItemsText .btn {margin-top: 0;}
+
+.moreItems.commonSec {padding-bottom:0;}
+
+.moreBannerSec {min-height: 320px;}
+
+.aboutbannerSec {min-height: 320px;}
+
+.finance-slider-main{padding: 25px 20px;}
+.finance-slider-main .slick-dots{margin-top: 25px;}
+
+}
+
+@media only screen and (max-width: 568px) {
+.headerMain .m_menuLogo .menuLogo {max-width: 190px;}
+.m_menuLogo .closeMenu:after{width: 22px;}
+.m_menuLogo .closeMenu::before{width: 22px;}
+.navigationBar { position: fixed; width: 300px; top: 0; bottom: 0; left: -300px; background: #fff; transition: all .6s ease-in-out; margin: 0; z-index: 9999; height: 100vh; overflow-y: auto;}
+.menuIcon {margin-left: 14px;}
+.myAccount .dropdown-toggle {padding: 10px 10px 10px 10px;}
+.topcall p a{font-size: 0;}
+.headInner p {font-size: 11px;}
+
+.homeproductcatSec {padding: 15px;}
+.productcatBoxes {display: block;}
+.productcatBoxes .productCol {margin-bottom: 20px;}
+
+.aboutWrite.cmsCon ul{margin-bottom: 20px;}
+.bookBottom {display: block;}
+.or_text {padding: 14px 0px;}
+.callus_sl {font-size: 26px;}
+.logo_slider .logo .logoslid {padding-bottom: 122px;}
+.productlist {
+    padding: 0 20px;
+}
+.productCategoriesItem {
+    padding: 16px 20px;
+}
+.copyrightsec .copyright {float: none;}
+.copyrightsec .powerdBy {float: none; margin-top: 5px;}
+.wave-sec {
+    top: 80%;
+    left: 70%;
+    width: 575px;
+    height: 575px;
+    transform: translate(-65%,-70%);
+}
+
+.waves{
+    width: 575px;
+    height: 575px;
+}
+/* listing-page */
+.productCategoriesItem {font-size: 14px;}
+
+/* listing-page */
+
+.productDetailsItemMain .row{display: flex;flex-direction: column-reverse;}
+.productDetailsSilder img {height: 350px;}
+.productThumbnailImgBox img{height: 70px;}
+.productDetilsMainSilde {padding-bottom: 20px;}
+.productDetailsConT {font-size: 20px;}
+.productDetailsItem.cmsCon ul li {width: 100%;}
+.productDetailsTabing {margin-bottom: 30px;}
+.productBenifitSlideBox{width: 100%;}
+.productBenifitImg{width: 100%;height: auto;}
+.productBenifitImg img{width: 100%;height: auto;}
+.whyBuyUsSec .secTitle{font-size: 24px;margin-bottom: 20px;}
+.whyBuyUsList ul li{margin-bottom: 10px;padding-left: 24px;}
+.whyBuyUsDesc{display: block;}
+.whyBuyUsWarranty{width: 100%;border-bottom: 1px solid #d9d9d9;border-right: none;}
+.topGunMobility {padding: 15px;}
+/* aboutbannerSec  */
+.aboutbannerSec {
+    min-height: 250px;}
+   .aboutbannerSec .bannerTitle{font-size: 35px;}
+   .bitAboutText{margin-top: 20px;}
+   /* ourcustomar */
+   .aboutWrite ul li::before {width: 16px; height: 16px; top: 5px; left: -23px;}
+    /* more-page */
+    .moreBannerSec { min-height: 250px;}
+    .moreBannerSec .bannerTitle{font-size: 35px;}
+    .moreItems .row:nth-child(n){margin-bottom: 40px;}
+    .companyContactDetailsBox{max-width: 100%;}
+    textarea.form-control{height: 100px;}
+
+    /* finance-page */
+    .slick-slide img{margin-left: auto; margin-right: auto;}
+    .scooterFinance .slick-dots{margin-top: 20px;}
+    .finance-slider-main{padding: 20px;}
+
+    /* mobaliti */
+    .mobaliti-brochure{flex-wrap: wrap;}
+    .mobaliti-brochure-text{width: 100%;}
+    .mobaliti-brochure-download{width: 100%; margin-top: 30px; margin-left: 0;}
+    .mobility-sec .row:nth-child(4) {
+        padding: 21px;
+    }
+    .mobaliti-brochure-download a{width: fit-content;}
+   
+    /* problem-sec */
+    .servicing-problem-sec ul li::before{
+        width: 13px;
+        height: 13px;
+    }
+    .services-sec .row:nth-child(1){margin-bottom: 20px;}
+    .freehome-con .cmsCon p:nth-child(2), .freehome-con .cmsCon p:nth-child(4), .freehome-con .cmsCon p:nth-child(5) {
+        margin-bottom: 15px;
+    }
+
+/* 404-page */
+  .opps-con .subTitle br{ display: none;}
+  .opps-con{padding: 150px 0;}
+  .opps-con .subTitle{font-size: 18px;} 
+  .opps-con{padding-left: 8px; padding-right: 8px;}
+
+ /* thankyou-page */
+ .thankyou-con .subTitle { font-size: 20px;}
+ .thankyou-con .secTitle { font-size: 60px;}
+ .thankyou-con{padding-left: 0; padding-right: 0;}
+ .listingBannerCon .listingBannerTitle {
+    font-size: 28px;
+}
+}
+
+
+/* common css for below screen 479 */
+
+@media only screen and (max-width: 479px) {
+    /* listing-page */
+    .listingBannerSec .listingBannerBox {height: 200px;}
+}
+
+
+@media only screen and (max-width: 380px) {
+
+}
+
+
+@media only screen and (max-width: 350px) {
+
+}
